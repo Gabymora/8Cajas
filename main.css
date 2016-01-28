@@ -1,17 +1,42 @@
+body {
+	background-image: url(bubble.jpg);
+}
+
 div {
 	height: 100px;
 	width: 100px;
-	background: grey;
-	margin: 15px;
-	border: 1px black solid ; 
-}
-
+	margin: 10px;
+	border: 2px black solid; 
+	border-radius: 60px 60px 60px 60px;
+}	
 .boxin {
 	display: inline-block;
 }
 
 .caja2 {
-	padding: 120px 10px 4px 10px;
-	display: inline;
+	width: 380px;
+	height: 120px;
+	margin-top: 20px;
+	background: #100370;
 }
-
+.p1 {
+	background: #14D34A;
+}
+.p3	{
+	background: #FDEBEB;
+	}
+.p4 {
+	background: #FCBCBC;
+}
+.p5 {
+	background: #FD5858;
+}
+.p6 {
+	background: #91069D
+}
+.p7 {
+	background: #E1E400
+}
+.p8 {
+	background: #1561FC
+}
