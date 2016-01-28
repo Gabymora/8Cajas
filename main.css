@@ -1,0 +1,17 @@
+div {
+	height: 100px;
+	width: 100px;
+	background: grey;
+	margin: 15px;
+	border: 1px black solid ; 
+}
+
+.boxin {
+	display: inline-block;
+}
+
+.caja2 {
+	padding: 120px 10px 4px 10px;
+	display: inline;
+}
+
